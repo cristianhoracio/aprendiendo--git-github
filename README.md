@@ -1,4 +1,3 @@
 # aprendiendo--git-github
-Este es mi primer repositorio despues de mucho tiempo. Estoy aprendiendo bien Git y GitHub.
-dale loco la concha de tu puta madre hijo de re mil putaaa
+Este es mi primer repositorio pusheado a traves de la forma clasica de la conexion via browser y contraseña de mi guthub
 
